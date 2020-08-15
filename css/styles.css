@@ -9,6 +9,10 @@
     padding:0px;
 }
 
+.navbar-brand{
+    margin: 0px 45px 0px 15px;
+}
+
 .row-content {
     margin:0px auto;
     padding: 50px 0px 50px 0px;
